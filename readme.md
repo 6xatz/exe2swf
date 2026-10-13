@@ -23,4 +23,4 @@ The extractor checks for the Flash Projector footer signature `0xFA123456`, read
 
 ## License
 
-MIT LICENSE
+All associated resources. are licensed under the [MIT License](https://mit-license.org/).
